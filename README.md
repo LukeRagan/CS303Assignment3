@@ -1,6 +1,7 @@
 # CS303Assignment3
 The 3 programs are ran a bit different.
-Program 1: 
+
+Program 1: User runs the code to be shown the the element in the program that was moved from the second spot to the first spot after the code was ran.
 
 Program 2: Press the run button to see if the word given is a palindrome or not.
 
